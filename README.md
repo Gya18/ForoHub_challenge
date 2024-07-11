@@ -1,4 +1,4 @@
-# 🌟 ForoHub WRH3 🌟
+# ForoHub WRH3
 
 ¡Bienvenido a ForoHub WRH3! Este programa es un API que te permite Realizar diferentes solicitudes REST:
 
@@ -8,14 +8,14 @@
 * Eliminar un topico
 * Listar topicos
 
-## 🚀 Servidores
+## Servidores
 La API se despliega localmente en:
 * Base URL: http://localhost:8080
 
 ##  Autorización
 La API requiere autorización mediante tokens JWT para acceder a ciertas funciones.
 
-## ✅ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - Java 🔧
 - Maven 🔧
 - Spring Boot 🔧
@@ -23,7 +23,7 @@ La API requiere autorización mediante tokens JWT para acceder a ciertas funcion
 - MySQL 🔧
 - JWT (JSON Web Tokens) 🔧
 
-## 🌟 Endpoints
+##  Endpoints
 ### Tópicos (`topico-controller`)
 
 - **Actualizar un tópico**
